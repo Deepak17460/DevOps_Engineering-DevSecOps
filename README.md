@@ -14,7 +14,9 @@ This repository contains resources, scripts, and configurations for DevOps and D
 ```
 
 ## 🔗 Resources
-- GitHub Profile: [Saikiranpi](https://github.com/saikiranpi)
+---
+*Maintained by [saikiranpi](https://github.com/saikiranpi).*
+```
 
 ## 🚀 How to Use
 1. Clone the repository:
