@@ -1,4 +1,4 @@
-```markdown
+
 # DevOps Engineering - DevSecOps
 
 ## 🔥 Overview
@@ -13,9 +13,8 @@ This repository contains resources, scripts, and configurations for DevOps and D
 └── docs/           # Documentation and guides
 ```
 
-## 🔗 Resources
 ---
-*Maintained by [saikiranpi](https://github.com/saikiranpi).*
+*Resources by [saikiranpi](https://github.com/saikiranpi).*
 ```
 
 ## 🚀 How to Use
@@ -40,5 +39,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 *Maintained by [Deepak Kumar](https://github.com/Deepak17460).*
 ```
-
-Would you like any modifications based on your project details? 🚀
